@@ -1,4 +1,4 @@
-# Research Publications 
+# Research Papers 
 
 ## Focus Areas: LLMs, Generative AI, ML
 
